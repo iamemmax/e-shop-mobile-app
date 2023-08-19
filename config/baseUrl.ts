@@ -1,0 +1,1 @@
+export const baseUrl = "https://emmax-shop-api.cyclic.app/api"
